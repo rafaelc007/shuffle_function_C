@@ -1,0 +1,7 @@
+This repository contains C code implementing a function that shuffles an array of integers randomly.
+
+The shuffle function is called: void print_array(int * array, size_t size);
+    where: array is an array of integers to be shuffled
+    	   size is the size of the array
+
+*OBS: the function implemented works in O(n) time complexity.
